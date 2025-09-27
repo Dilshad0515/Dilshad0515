@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dilshad Shaik</h1>
-<h3 align="center">💻 Java Full Stack Developer & Passionate Trainer 👨‍🏫</h3>
+<h3 align="center">💻 Java Full Stack Development </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=38BDF8&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Trainer+%26+Mentor;Lifelong+Learner+%F0%9F%92%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=38BDF8&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL+%26+;Lifelong+Learner+%F0%9F%92%AD" alt="Typing SVG" />
 </p>
 
 <p align="center">
