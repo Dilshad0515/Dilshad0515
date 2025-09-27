@@ -93,7 +93,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="40" height="40" alt="Postman"/>
-      <br/>Postman
+      <br/>Docker
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
