@@ -148,15 +148,11 @@
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dilshad0515&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=dilshad0515&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dilshad0515&layout=compact&theme=tokyonight" />
+  <b>Java Full Stack Developer • Consistently improving through real-world projects</b>
 </p>
 
 ---
